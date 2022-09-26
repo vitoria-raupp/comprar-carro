@@ -1,0 +1,42 @@
+boby{
+    font-family: arial;
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+    background-color: #febe01;
+    color: #111;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 7px    
+}
+
+h2{
+    margin: 0px;
+}
+.item {
+    background: #111;
+    color: #fff;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 7px;
+}
+
+span{
+    color: #febe01;
+}
+
+p{
+    color: #b2b2b2;
+}
+
+a{
+    display: inline-block;
+    background-color: #febe01;
+    color: #320;
+    padding: 8px;
+    border-radius: 7px;
+    text-decoration: none;
+}
+
